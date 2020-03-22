@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Ejercicio 3/race.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
